@@ -9,3 +9,8 @@ Space for drafts, notes and resources around serendipity and search in digital d
  - primers on the different ways [algorithmic search](./algorithmic_search.md) can be implemented on the different types of information contained in digital collections
  
  - finally, there's a [glossary](./glossary.md) of terms and concepts spread in the other documents or generally of relevance to this project  -- if anything is missing according to you, please feel free to leave a note and I'll add a description
+ 
+---
+
+ - draft of a proposal for the [technical tasks](./technical_tasks_draft.md) in this projects. the proposal is concerned mainly with those tasks deemed necessary regardless of specific desired outcomes, such as obtaining, interpreting and processing data  
+ 
