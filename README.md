@@ -16,12 +16,13 @@ Space for drafts, notes and resources around serendipity and search in digital d
  
 
 
-## Disclaimers
+## Notes
 
  - as much as we may think so: the information contained in and attached to an object always stays the information that is available on that object, algorithms can be used to extract, structure or process that information but they cannot add to it (except by guessing)
  
   - context: we can add to the information contained in an object record by combining, connecting and comparing the record with and to information from other sources, e.g. other records from the same collection or other data such as the internet (Wikipedia and the like), and thereby _contextualising_ that record 
   
+  - the concept of [generous interfaces](http://www.digitalhumanities.org/dhq/vol/9/1/000205/000205.html#enumerate2014)
   
   
   
